@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "name" : "Espresso",
+        "coffeeDescription": "Very Strong and bold coffee",
+        "price" : 2.99,
+        "image" : "coffee",
+        "category": "Hot"
+        
+    },
+    
+    {
+        "id": "2",
+        "name" : "Latte",
+        "coffeeDescription": "Can have whip cream ver smooth",
+        "price" : 2.99,
+        "image" : "coffee2",
+        "category": "Hot"
+    },
+    {
+        "id": "3",
+        "name" : "Ice Coffee",
+        "coffeeDescription": "Creamly coffee",
+        "price" : 2.99,
+        "image" : "coffee3",
+        "category": "Cold"
+    }
+]
